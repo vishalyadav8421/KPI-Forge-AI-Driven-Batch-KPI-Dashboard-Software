@@ -19,7 +19,7 @@ st.markdown("""
             font-size: 36px;
         }
     </style>
-    <div class="centered-title">📈 Fibre Bond KPI Dashboard</div>
+    <div class="centered-title">📈 KPI Forage Dashboard</div>
 """, unsafe_allow_html=True)
 
 st.markdown("Upload the 3 Excel files to auto-process KPIs, run queries, and explore insights.")

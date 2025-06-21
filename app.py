@@ -2,7 +2,6 @@
 #pip install streamlit pandas openpyxl
 # pip install Pandas
 # pip install streamlit
-#Use in Terminal to run program on Webpage ( 'streamlit run app_fibre_bond_final.py' )
 # pip install streamlit pandas openpyxl streamlit-extras
 import pandas as pd
 import streamlit as st
@@ -10,7 +9,7 @@ import re
 from datetime import datetime
 from streamlit_extras.dataframe_explorer import dataframe_explorer
 
-st.set_page_config(page_title="Fibre Bond KPI Dashboard", layout="wide")
+st.set_page_config(page_title="KPI Forge Dashboard", layout="wide")
 
 st.markdown("""
     <style>

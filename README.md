@@ -89,7 +89,7 @@ To build a smart dashboard that automates:
 - Cost per unit = Total Raw Material Cost / Output Units  
 - Variance beyond ±10% is flagged as "High Variance"
 
----
+------
 
 ## 🧠 Optional Improvements
 

@@ -3,7 +3,7 @@
 
 This project was completed as part of a test assignment. It automates batch-wise KPI calculations using purchase, production, and target cost data, and presents results through an intelligent, user-friendly Streamlit dashboard.
 
----
+------
 
 ## 📁 Files Included
 

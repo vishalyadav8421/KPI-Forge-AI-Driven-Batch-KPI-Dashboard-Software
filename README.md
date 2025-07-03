@@ -4,6 +4,11 @@
 This project was completed as part of a test assignment. It automates batch-wise KPI calculations using purchase, production, and target cost data, and presents results through an intelligent, user-friendly Streamlit dashboard.
 
 ------
+## Use below link to upload all 3 test excel file to their right place
+
+https://kpi-forge-ai-driven-batch-kpi-dashboard-software-fyhqjb5tqv2vy.streamlit.app/
+
+Please note if you see an error lidly press on Tes Get This App Wake'up to launch application 
 
 ## 📁 Files Included
 
